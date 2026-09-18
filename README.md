@@ -1,6 +1,6 @@
 # Systematic Evaluation of LLMs in Chemical Synthesis
 
-![Overview Diagram](assets/overview.png)
+
 *Figure 1: Benchmark and evaluation framework for Large Language Models (LLMs) in chemical synthesis tasks.*
 <img width="1755" height="780" alt="image" src="https://github.com/user-attachments/assets/946c2c0e-026a-40c5-94a1-b219dd9a5cc2" />
 
